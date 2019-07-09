@@ -1,12 +1,12 @@
 h1 {
     color:red;
-    font:arial;
-    font-size: 500px,
+    font-family: Arial, Helvetica, sans-serif
+    font-style italic;
 }
 
 h2 {
     color:blue;
-    font:arial;
-    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif
+    font-style italic;
 
 }
